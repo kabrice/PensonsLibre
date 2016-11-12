@@ -1,0 +1,207 @@
+[09-Jul-2016 03:55:56 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[09-Jul-2016 03:55:56 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[09-Jul-2016 04:01:55 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:55 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:56 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:56 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:57 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:57 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:01:57 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:01:57 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:00 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:00 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:01 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:01 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:01 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:01 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:01 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:01 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:01 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:01 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:02 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:02 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:03 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:03 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:02:03 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:02:03 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:36 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:36 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:36 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:36 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:36 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:36 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:36 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:36 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:36 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:36 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:38 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:38 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:38 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:38 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:38 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:38 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:38 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:38 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:39 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:39 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:39 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:39 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:39 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:39 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:40 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:40 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:40 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:40 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:40 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:40 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:09:40 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:09:40 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:06 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:06 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:07 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:07 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:07 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:07 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:08 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:08 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:08 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:08 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:08 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:08 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:11 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:11 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:11 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:11 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:11 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:11 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:12 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:12 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:12 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:12 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:12 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:12 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:12 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:12 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:16 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:16 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:19 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:19 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:20 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:20 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 04:24:24 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 04:24:24 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 06:57:18 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 06:57:18 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 06:57:29 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 06:57:29 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 06:57:47 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 06:57:47 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/utilisateur.model.php on line 578
+[09-Jul-2016 08:02:45 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[09-Jul-2016 08:02:45 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/application/models/profil.model.php on line 135
+[09-Jul-2016 22:13:10 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[09-Jul-2016 22:13:10 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[09-Jul-2016 22:15:43 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[09-Jul-2016 22:15:43 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[09-Jul-2016 22:35:09 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[09-Jul-2016 22:35:09 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[09-Jul-2016 23:10:36 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[09-Jul-2016 23:10:36 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[10-Jul-2016 07:03:12 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[10-Jul-2016 07:03:12 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[10-Jul-2016 07:12:33 UTC] PHP Notice:  Undefined index: reset in /home/kabrice/public_html/application/views/index.view.php on line 66
+[10-Jul-2016 13:17:07 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[10-Jul-2016 13:17:07 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84
+[10-Jul-2016 18:23:09 UTC] PHP Fatal error:  Call to undefined function Swift_Mailer() in /home/kabrice/public_html/application/helpers/functions.helper.php on line 38
+[10-Jul-2016 18:25:30 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[10-Jul-2016 18:25:30 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/framework/autoloader.php on line 75
+[10-Jul-2016 18:25:58 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[10-Jul-2016 18:25:58 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/framework/autoloader.php on line 75
+[10-Jul-2016 18:46:37 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[10-Jul-2016 18:46:37 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/framework/autoloader.php on line 75
+[10-Jul-2016 18:48:40 UTC] PHP Warning:  F3il\Error::__toString() must return a string in Unknown on line 0
+[10-Jul-2016 18:48:40 UTC] PHP Fatal error:  Uncaught 
+  thrown in /home/kabrice/public_html/framework/autoloader.php on line 75
+[11-Jul-2016 10:41:48 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 83
+[11-Jul-2016 10:41:48 UTC] PHP Notice:  Undefined index: administrateur in /home/kabrice/public_html/application/controllers/index.controller.php on line 84

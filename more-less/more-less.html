@@ -1,0 +1,24 @@
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="jquery.expander.js"></script>
+<script>
+$(document).ready(function() {
+
+  $('div.expandDiv').expander({
+    slicePoint: 200, //It is the number of characters at which the contents will be sliced into two parts.
+    widow: 2,
+    expandSpeed: 0, // It is the time in second to show and hide the content.
+    userCollapseText: 'Lire moins' // Specify your desired word default is Less.
+  });
+
+  $('div.expandDiv').expander();
+});
+
+
+</script>
+
+<div class="expandDiv">
+
+  <p>En effet&nbsp;:</p><ul><li>ses s&eacute;ances de cours sont toujours dormantes (il fait ses cours la plupart du temps assis).</li><li>&nbsp;On a l&rsquo;impression que ses s&eacute;ances de tp et d<div class="more" hidden>e td ne sont destin&eacute;es qu&rsquo;aux &eacute;tudiants exp&eacute;riment&eacute;s.&nbsp;</li><li>On a l&rsquo;impression que les &eacute;tudiants d&eacute;butants comme moi sont laiss&eacute;s pour compte, on dirait qu&rsquo;il n&rsquo;a pas trop envie d&rsquo;expliquer, mais qu&rsquo;il se sent un peu forc&eacute;, c du genre&nbsp;: &laquo;&nbsp;Que j&rsquo;en finisse vite, puis je me casse et &agrave; la fin du mois j&rsquo;ai ma tune&nbsp;&raquo;&nbsp;</li></ul>Je propose que chacun propose une solution pour que jamais il les lise et se resolve &agrave; changer. Ces nos comp&eacute;tences professionnelles qui sont en jeu.
+
+</div>
